@@ -14,7 +14,7 @@ O objetivo é fazer o Mario pular os obstáculos e alcançar a maior pontuação
 - JavaScript
 
 ## Autor
-João Henrique Moura Freitas
+João Henrique da Silva Lima
 
 ## Licença
 Este projeto está sob a licença [MIT](./LICENSE).
